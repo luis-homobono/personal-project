@@ -1,0 +1,11 @@
+-r test.txt
+-r prod.txt
+# punch.py
+# wheel
+# watchdog
+flake8
+black
+# Sphinx
+cryptography
+PyYAML
+commitizen
